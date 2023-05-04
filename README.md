@@ -1,8 +1,6 @@
 # 💫 About Me:
 Full Stack and Front-end   Developer with expertise in JavaScript, TypeScript, Node.js, and Python. I am well-positioned to deliver excellent results on these projects thanks to my expertise in a variety of tools, libraries and frameworks, including React, React Native, Express, Next.js, Netlify, GitHub, Redux, Styled, SCSS, Stripe, Firebase, Firestore, GraphQL, Jest, and Next.js, as well as NoSQL databases like MongoDB. I'm committed to master machine learning and data science over the next two years in order to stay on the cutting edge of the field and explore a variety of opportunities. I have a strong enthusiasm for building applications that are fast, secure, and provide top-notch user experiences.
 
-Aside from my technical expertise, I have experience managing large budgets and teams of up to 150 employees. As Co-Founder and Managing Director of the Deodato Santana Public Foundation, I implemented and developed a Workshop School and training program for young people to revitalize public heritage in my city. Additionally, I have contributed to multiple cultural heritage projects, including serving as the Head of the Cultural Heritage Division, where I participated in project design, secured external funding, and coordinated team efforts to implement the preservation of cultural heritage.
-
 Fluent in English, French, and Portuguese, I can also communicate effectively in Spanish and Italian.
 
 
