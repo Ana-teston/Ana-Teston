@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full Stack and Front-end   Developer with expertise in JavaScript, TypeScript, Node.js, and Python. I am well-positioned to deliver excellent results on these projects thanks to my expertise in a variety of tools, libraries and frameworks, including React, React Native, Express, Next.js, Netlify, GitHub, Redux, Styled, SCSS, Stripe, Firebase, Firestore, GraphQL, Jest, and Next.js, as well as NoSQL databases like MongoDB. I'm committed to master machine learning and data science over the next two years in order to stay on the cutting edge of the field and explore a variety of opportunities. I have a strong enthusiasm for building applications that are fast, secure, and provide top-notch user experiences.
+Full Stack Developer | Front-end | Node.js | React | Ruby on Rails
+
+Full Stack Developer with a strong focus on front-end development and expertise in Node.js, React, and Ruby on Rails. Skilled in creating complex workflow procedures and enhancing efficiency for digital projects. Passionate about delivering high-quality products through effective collaboration and innovative solutions.
 
 Fluent in English, French, and Portuguese, I can also communicate effectively in Spanish and Italian.
 
