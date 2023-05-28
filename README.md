@@ -1,9 +1,12 @@
 # 💫 About Me:
 Full Stack Developer | Front-end | Node.js | React | Ruby on Rails
 
-Full Stack Developer with a strong focus on front-end development and expertise in Node.js, React, and Ruby on Rails. Skilled in creating complex workflow procedures and enhancing efficiency for digital projects. Passionate about delivering high-quality products through effective collaboration and innovative solutions.
+Full Stack Developer with over 3 years of hands-on experience in developing and deploying complex web applications using JavaScript, TypeScript, Ruby, Node.js, React, and React Native, with a strong focus on front-end development.
+- Skilled in creating complex workflow procedures and enhancing efficiency for digital projects.
+- Passionate about delivering high-quality products through effective collaboration and innovative solutions.
+- Fluent in English, French, and Portuguese, with effective communication skills in Spanish and Italian.
 
-Fluent in English, French, and Portuguese, I can also communicate effectively in Spanish and Italian.
+JavaScript | TypeScript | Ruby | Node.js | React | Ruby on Rails | React Native | Expo | PostgreSQL | MongoDB | Git | GitHub | CI/CD | AWS | Docker | Rest API | RCP | TDD | Redux | JWT Authentication | Magic Link | Styled Components | GraphQL | Jest | Spec | HTML | CSS | SCSS | Figma | Jira | Trello
 
 
 ## 🌐 Socials:
