@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full Stack Developer | React | Ruby on Rails
+# 💫 Full Stack Developer
+React | Ruby on Rails
 
 Full Stack Developer with a background in team management. I recently graduated from Le Wagon, an intensive web development program, where I completed a group project focused on building a website for anime enthusiasts. With a client-centric mindset and a passion for innovative ideas, I am eager to contribute to a dynamic team.
 
