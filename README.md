@@ -1,7 +1,7 @@
-# 💫 Full Stack Developer
+# 💫 Full Stack Developer 💫
 React | Ruby on Rails
 
-Full Stack Developer with a background in team management. I recently graduated from Le Wagon, an intensive web development program, where I completed a group project focused on building a website for anime enthusiasts. With a client-centric mindset and a passion for innovative ideas, I am eager to contribute to a dynamic team.
+Full Stack Developer and Agile Alchemist, on a mission to sprinkle magic into web development. With a penchant for experimentation and a love for fresh approaches, I’m constantly seeking new heights in the digital realm. Recently graduated from Le Wagon, an intensive web development bootcamp program, I’ve mastered the art of developing workflow processes, maintaining quality standards, and unleashing innovation. A quick learner, reliable teammate, and an enthusiastic advocate for fostering positive vibes, I’m more than ready to dive into dynamic projects and fuel the success of web application development.
 
 JavaScript | TypeScript | Ruby | Node.js | React | Ruby on Rails | React Native | Expo | PostgreSQL | MongoDB | Git | GitHub | CI/CD | AWS | Docker | Rest API | RCP | TDD | Redux | JWT Authentication | Magic Link | Styled Components | GraphQL | Jest | Spec | HTML | CSS | SCSS | Figma | Jira | Trello
 
