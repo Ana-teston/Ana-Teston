@@ -1,7 +1,15 @@
 # 💫 Full Stack Developer 💫
 React | Ruby on Rails
 
-Full Stack Developer and Agile Alchemist, on a mission to sprinkle magic into web development. With a penchant for experimentation and a love for fresh approaches, I’m constantly seeking new heights in the digital realm. Recently graduated from Le Wagon, an intensive web development bootcamp program, I’ve mastered the art of developing workflow processes, maintaining quality standards, and unleashing innovation. A quick learner, reliable teammate, and an enthusiastic advocate for fostering positive vibes, I’m more than ready to dive into dynamic projects and fuel the success of web application development.
+Full Stack Developer and Agile Alchemist, with a penchant for experimentation and a love for fresh approaches, I'm constantly seeking new heights in the digital realm.
+
+Throughout my career, I have excelled in managing diverse projects, leading teams, and handling complex contracts, including at the prestigious Theatro Municipal de São Paulo - Brazil. As a project manager, I have demonstrated precision, efficiency, and fostered a positive work environment, achieving successful outcomes, and meeting deadlines ahead of schedule.
+
+In 2020, I discovered my passion for programming through UX research and subsequently delved into front-end development with projects like Bomjour bakery, showing my proficiency in React, Redux, and Typescript. Later, I honed my skills in back-end development with an intensive bootcamp at Le Wagon, focused on Ruby and Ruby on Rails.
+
+With my diverse skill set, dedication to excellence, and positive approach to challenges, I am eager to contribute and make a meaningful impact in achieving our shared goals.
+
+Fluent in English, French, and Portuguese, and possess effective communication skills in Spanish and Italian.
 
 JavaScript | TypeScript | Ruby | Node.js | React | Ruby on Rails | React Native | Expo | PostgreSQL | MongoDB | Git | GitHub | CI/CD | AWS | Docker | Rest API | RCP | TDD | Redux | JWT Authentication | Magic Link | Styled Components | GraphQL | Jest | Spec | HTML | CSS | SCSS | Figma | Jira | Trello
 
