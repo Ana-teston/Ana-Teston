@@ -1,17 +1,14 @@
 # 💫 Full Stack Developer 💫
-React | Ruby on Rails
 
-Full Stack Developer and Agile Alchemist, with a penchant for experimentation and a love for fresh approaches, I'm constantly seeking new heights in the digital realm.
+👋 Hello! I'm a Full Stack Developer and Agile Alchemist with a strong background in Project Management.
 
-Throughout my career, I have excelled in managing diverse projects, leading teams, and handling complex contracts, including at the prestigious Theatro Municipal de São Paulo - Brazil. As a project manager, I have demonstrated precision, efficiency, and fostered a positive work environment, achieving successful outcomes, and meeting deadlines ahead of schedule.
+🚀 Efficiently handling multiple projects and leading teams, my project management experience seamlessly translates into my programming work, maintaining a structured approach, prioritizing tasks, and ensuring seamless team communication.
 
-In 2020, I discovered my passion for programming through UX research and subsequently delved into front-end development with projects like Bomjour bakery, showing my proficiency in React, Redux, and Typescript. Later, I honed my skills in back-end development with an intensive bootcamp at Le Wagon, focused on Ruby and Ruby on Rails.
+💡 Passionate about programming, I excel in full stack development using Javascript, Ruby, Python, Ruby on Rails, React, React Native, and SQL, delivering successful outcomes and on-time deliveries.
 
-With my diverse skill set, dedication to excellence, and positive approach to challenges, I am eager to contribute and make a meaningful impact in achieving our shared goals.
+🌟 Soft Skills: I'm a quick learner, reliable teammate, and effective communicator, fostering a positive work environment and achieving exceptional results.
 
-Fluent in English, French, and Portuguese, and possess effective communication skills in Spanish and Italian.
-
-JavaScript | TypeScript | Ruby | Node.js | React | Ruby on Rails | React Native | Expo | PostgreSQL | MongoDB | Git | GitHub | CI/CD | AWS | Docker | Rest API | RCP | TDD | Redux | JWT Authentication | Magic Link | Styled Components | GraphQL | Jest | Spec | HTML | CSS | SCSS | Figma | Jira | Trello
+🔍 Actively seeking new opportunities to contribute my skills and enthusiasm to dynamic projects. Let's connect and create extraordinary solutions together! 🚀 Portfolio: https://anateston.site/
 
 
 # 💻 Tech Stack:
