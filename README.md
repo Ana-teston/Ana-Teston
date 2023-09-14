@@ -6,7 +6,7 @@
 
 💡 Passionate about programming, I excel in full stack development using Javascript, Ruby, Python, Ruby on Rails, React, React Native, and SQL, delivering successful outcomes and on-time deliveries.
 
-🌟 Soft Skills: I'm a quick learner, reliable teammate, and effective communicator, fostering a positive work environment and achieving exceptional results.
+🌟 Soft Skills: I'm a highly adaptive professional, reliable teammate, and effective communicator, fostering a positive work environment and achieving exceptional results.
 
 🔍 Actively seeking new opportunities to contribute my skills and enthusiasm to dynamic projects. Let's connect and create extraordinary solutions together! 🚀 Portfolio: https://anateston.site/
 
