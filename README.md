@@ -1,14 +1,16 @@
 # 💫 Full Stack Developer 💫
 
-👋 Hello! I'm a Full Stack Developer and Agile Alchemist with a strong background in Project Management.
+👋 Hello! I'm Paula teston.
 
-🚀 Efficiently handling multiple projects and leading teams, my project management experience seamlessly translates into my programming work, maintaining a structured approach, prioritizing tasks, and ensuring seamless team communication.
+🚀 Experienced Full Stack Developer specializing in JavaScript, React, Ruby, and Ruby on Rails (RoR) with a strong focus on Frontend Development. Proven track record in
+optimizing web pages, streamlining workflows for an 80% efficiency gain, and creating UI components using Styled and Tailwind. Skilled in Redux-Saga, Firebase's
+Firestore for authentication, and product functionalities. Seeking a Full Stack Developer role to apply my digital production skills and enhance user experiences.
 
-💡 Passionate about programming, I excel in full stack development using Javascript, Ruby, Python, Ruby on Rails, React, React Native, and SQL, delivering successful outcomes and on-time deliveries.
+💡 Portfolio: https://anateston.site/
 
 🌟 Soft Skills: I'm a highly adaptive professional, reliable teammate, and effective communicator, fostering a positive work environment and achieving exceptional results.
 
-🔍 Actively seeking new opportunities to contribute my skills and enthusiasm to dynamic projects. Let's connect and create extraordinary solutions together! 🚀 Portfolio: https://anateston.site/
+🔍 Actively seeking new opportunities to contribute my skills and enthusiasm to dynamic projects. 
 
 
 # 💻 Tech Stack:
