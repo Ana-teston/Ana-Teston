@@ -2,9 +2,9 @@
 
 👋 Hello! I'm Paula teston.
 
-🚀 Experienced Full Stack Developer specializing in JavaScript, React, Ruby, and Ruby on Rails (RoR) with a strong focus on Frontend Development. Proven track record in
-optimizing web pages, streamlining workflows for an 80% efficiency gain, and creating UI components using Styled and Tailwind. Skilled in Redux-Saga, Firebase's
-Firestore for authentication, and product functionalities. Seeking a Full Stack Developer role to apply my digital production skills and enhance user experiences.
+🚀 Full Stack developer specializing in JavaScript, React, Ruby, and Ruby on Rails (RoR) with a strong focus on Frontend Development. Proven track record in optimizing web pages, and streamlining workflows for an 80% efficiency gain in improving user experiences and quality control workflows in digital production, achieving the perfect balance between creativity and functionality. With a backpack full of tools - from React and Next.js, Strapi, Node.js, Redux, and RoR to GitHub, CI/CD, Jest, and much more - I've found my ideal balance between innovation and delivery.
+
+🌟 My journey is an adventure of optimizing web pages, crafting features and components to streamline workflows, and turning challenges into opportunities. With each hurdle overcome, I aim not only to meet but also exceed expectations, always driven by a determined desire to find exceptional solutions.
 
 💡 Portfolio: https://anateston.site/
 
