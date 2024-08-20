@@ -6,7 +6,7 @@
 
 🌟 My journey is an adventure of optimizing web pages, crafting features and components to streamline workflows, and turning challenges into opportunities. With each hurdle overcome, I aim not only to meet but also exceed expectations, always driven by a determined desire to find exceptional solutions.
 
-💡 Portfolio: https://anateston.site/
+💡 Portfolio: https://paulateston.com/
 
 🌟 Soft Skills: I'm a highly adaptive professional, reliable teammate, and effective communicator, fostering a positive work environment and achieving exceptional results.
 
